@@ -176,3 +176,6 @@ cython_debug/
 # Outputs and downloads
 .wav
 App/.wav
+
+# IDEs
+.idea
